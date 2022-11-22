@@ -15,7 +15,8 @@
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
     </properties>
 
-    <repositories>
+    <!--<repositories>-->
+	<distributionManagement>
         <repository>
             <id>vaadin-prereleases</id>
             <name>Vaadin Pre-releases</name>
@@ -38,7 +39,8 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
-    </repositories>
+    <!--</repositories>-->
+	</distributionManagement>
 	
 
     <pluginRepositories>

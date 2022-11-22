@@ -15,7 +15,6 @@
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
     </properties>
 
-	
     <repositories>
         <repository>
             <id>vaadin-prereleases</id>

@@ -15,15 +15,6 @@
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
     </properties>
 
-	<distributionManagement>
-    <repository>
-      <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
-      <name>Corporate Repository</name>
-      <url>http://3.84.2.84:8080</url>
-      <layout>default</layout>
-    </repository>
-</distributionManagement>
 	
     <repositories>
         <repository>
